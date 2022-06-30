@@ -19,7 +19,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.twitch.tv/in0rage">
     <img src="https://img.shields.io/badge/Twitch-blueviolet?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
 </div>
