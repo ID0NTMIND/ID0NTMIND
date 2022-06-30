@@ -7,13 +7,13 @@
 </h1>
 
 <div id="badges" align="center">
-<a href="your-linkedin-URL">
+<a href="https://github.com/ID0NTMIND">
     <img src="https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=Github&logoColor=white" alt="Github Badge"/>
   </a>
-  <a href="your-linkedin-URL">
+  <a href="https://t.me/id0ntmind">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.reddit.com/u/id0ntmind">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
   <a href="your-twitter-URL">
