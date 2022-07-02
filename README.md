@@ -29,8 +29,12 @@
 
 
 
+
+
 * 🔭 I’m currently working on something cool.
 * 🌱 I’m building some fantastic webdev skills.
+
+***In progress***
 
 
 
