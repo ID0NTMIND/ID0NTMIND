@@ -32,7 +32,7 @@
 
 
 * 🔭 I’m currently working on something cool.
-* 🌱 I’m building some fantastic webdev skills.
+* 🌱 I’m building some fantastic DS skills.
 
 ***In progress....***
 
